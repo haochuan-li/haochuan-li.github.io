@@ -117,11 +117,10 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
       {% if author.bilibili %}
-        <li><a href="https://space.bilibili.com/{{ author.bilibili }}"><i class="fa-brands fa-bilibili" aria-hidden="true"></i> Bilibili</a></li>
-
-
-{% endif %}
+        <li><a href="https://space.bilibili.com/{{ author.bilibili }}"><i class="fa-brands fa-bilibili" aria-hidden="true"></i>&nbsp Bilibili</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
