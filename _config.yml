@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Haochuan Li"
-  avatar           : "profile.png"
+  avatar           : "haochuan.jpg"
   bio              : "Your Friendly Neighborhood..."
-  location         : "@Suzhou-Jiangsu-China"
+  location         : "Suzhou"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,12 +102,12 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/haochuan-li"
+  linkedin         : "haochuan-li"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "Spidey"
+  steam            : "Spidey0918"
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          : 
   wikipedia        :
+  bilibili         : "26622551"
 
 
 # Reading Files
