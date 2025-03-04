@@ -25,8 +25,11 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 I joined <img src="images/Taobao.png" alt="TAOBAO&TMALL Group" width="70"/> as an Algorithm Engineer! 
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by **CVPR 2025**! 
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by **ICLR 2025** as a Poster!
+- *2024.03*: &nbsp;🎉🎉 I joined <img src="images/Bytedance.png" alt="Bytedance" width="50"/> as a MLLM Intern!
+- *2023.12*: &nbsp;🎉🎉 I joined <img src="images/NExT.png" alt="NExT++" width="50"/> as a Research Intern!
 
 # 📝 Publications 
 
