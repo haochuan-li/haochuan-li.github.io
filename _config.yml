@@ -7,16 +7,16 @@
 
 # Site Settings
 title                    : "Haochuan Li"
-description              : "R&B, Guitar, and AGI"
+description              : "This is the homepage of Haochuan Li."
 repository               : "haochuan-li/haochuan-li.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "G-T1YRGC8FY6" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification : "LWWQGZmhHu6OLNLmg2wJxhXMSyChmwY-yqQItsPB3K0" # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : "4A018E2B53822C7498757E9DF6A1F7BF" # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : haochuan-li # e.g., "linkedin username"
+  linkedin         : "haochuan-li" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            : 
   tumblr           :
-  twitter          : Spidey000918
+  twitter          : "Spidey000918"
   bilibili         : "26622551"
   vine             :
   weibo            :
