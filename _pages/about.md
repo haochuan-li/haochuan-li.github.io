@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About - Haochuan(Andrew) Li"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,19 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-🔍 Currently, I'm an Algorithm Engineer at Alibaba, working on large-scale personalized recommendation for Taobao. 
+**Hello! I'm Haochuan Li (李浩川).** 👋 I’m an **Algorithm Engineer** at **Alibaba**, working on **large-scale personalized recommendation** for **Taobao**.  
 
-🎓 Previously, I graduated from National University of Singapore (NUS) 🏫, majoring in Computer Science. I also interned at ByteDance & Microsoft.
+🎓 I hold a **master's degree** from the **School of Computing, National University of Singapore (NUS)**, where I was fortunately mentored by **[Dr. Leigang Qu](https://leigang-qu.github.io/)** and **[Dr. Wenjie Wang](https://wenjiewwj.github.io/)**, under the supervision of **[Prof. Tat-Seng Chua](https://www.chuatatseng.com/)**. During my master's and undergraduate studies, I interned at **ByteDance** 🏢 and **Microsoft** 💻, where I was supervised by **[Dr. Nan Li](http://nan-li.cn/)**. For more details, please see my **[CV](files/cv_20250305.pdf)**.  
 
-🤖 Passionate about AGI. My research interest includes Generative Recommendation, Large Multi-Modal Models. Let’s connect and talk about AI, music, or anything cool! 😎
+🤖 I'm passionate about **Artificial General Intelligence (AGI)** and 🎵 **Music**. My research interests include **Generative Recommendation** and **Large Multi-Modal Models**.  
+
+🎸 My favorite artists include David Tao (陶喆), Khalil Fong (方大同), Yellow (黄宣), and Dean Ting (丁世光). I'm also a **zero-shot singer and guitarist**—always up for a jam session, music is life! 
+
+🚀 Let’s connect and talk about **AI, music, or anything cool!** 😎
+
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 I joined <img src="images/Taobao.png" alt="TAOBAO&TMALL Group" width="70"/> as an Algorithm Engineer! 
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by **CVPR 2025**! 
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by **ICLR 2025** as a Poster!
-- *2024.03*: &nbsp;🎉🎉 I joined <img src="images/Bytedance.png" alt="Bytedance" width="50"/> as a MLLM Intern!
-- *2023.12*: &nbsp;🎉🎉 I joined <img src="images/NExT.png" alt="NExT++" width="50"/> as a Research Intern!
+- *2025.03*: &nbsp;🚀🚀 I joined <img src="images/Taobao.png" alt="TAOBAO&TMALL Group" width="70"/> as an Algorithm Engineer!  
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by **CVPR 2025**!  
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by **ICLR 2025** as a Poster!  
+- *2024.03*: &nbsp;🔍💡 I joined <img src="images/Bytedance.png" alt="Bytedance" width="50"/> as a MLLM Intern!  
+- *2023.12*: &nbsp;🎯📚 I joined <img src="images/NExT.png" alt="NExT++" width="60"/> as a Research Intern!  
+- *2022.07*: &nbsp;🧩🔬 I joined <img src="images/SAIL.jpg" alt="SAIL Lab" width="80"/> as a Research Intern!  
+- *2022.05*: &nbsp;💼🌍 I joined <img src="images/Microsoft.jpg" alt="Microsoft" width="80"/> as an Applied Scientist Intern!  
 
 # 📝 Publications 
 
@@ -78,7 +85,7 @@ redirect_from:
     <span><i>Shanghai, China</i></span>
 </div>
 
-- Mainly works on TikTok E-commerce Large Multimodal Model pretraining&SFT and SPU/SKU ranking, in deep collaboration with search and recommendation teams.
+- Mainly works on TikTok E-commerce Large Multimodal Model pretraining & SFT and SPU/SKU ranking, in deep collaboration with search and recommendation teams.
 
 ------
 
@@ -87,11 +94,11 @@ redirect_from:
     <span><i>2023.12 - 2024.12</i></span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <span>NExT++, National University of Singapore</span>
+    <span><a href="https://www.nextcenter.org/">NExT++</a>, National University of Singapore</span>
     <span><i>Singapore</i></span>
 </div>
-
-- Mainly works on Large Multi-modal Models(LMMs) generation and retrival.
+Advisor: **[Prof. Tat-Seng Chua](https://www.chuatatseng.com/)**
+- Mainly works on Large Multi-modal Models(LMMs) generation and retrival with **[Dr. Leigang Qu](https://leigang-qu.github.io/)** and **[Dr. Wenjie Wang](https://wenjiewwj.github.io/)**
 
 ------
 
@@ -103,21 +110,21 @@ redirect_from:
     <span>STC-Asia, Microsoft</span>
     <span><i>Suzhou, China</i></span>
 </div>
-
+Advisor: **[Dr. Nan Li](http://nan-li.cn/)**
 - Mainly works on Fine-grained Ranking models for Windows and Edge homepage news recommendation feed which provide content services to over 1 billion Windows users.
 
 ------
 
 <div style="display: flex; justify-content: space-between;">
-    <span><b>Research Intern</b></span>
+    <span><b>Research Intern(Remote)</b></span>
     <span><i>2022.07 - 2022.10</i></span>
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <span>SAIL Lab, Queen's University</span>
+    <span><a href="https://sail.cs.queensu.ca/">SAIL Lab</a>, Queen's University</span>
     <span><i>Kingston, Canada</i></span>
 </div>
-
-- Mainly works on analyzing the way that MLOps has been integrated into open source projects’code base and study bugs related to the integration of MLOps.
+Advisor: **[Bram Adams](https://www.cs.queensu.ca/people/Bram/Adams)**, **[Ahmed E. Hassan](https://research.cs.queensu.ca/home/ahmed/home/)**
+- Mainly works on analyzing the way that MLOps has been integrated into open source projects’code base and study bugs related to the integration of MLOps with **[Dr. Zhimin Zhao](https://zhimin-z.github.io/)**
 
 
 
@@ -129,6 +136,7 @@ redirect_from:
 - *2016.09 - 2019.09*, Suzhou Industrial Park Xinghai Experimental High School
 
 # 🎖 Honors and Awards
-- *2022.10* Globalink Research Internship Scholarship, Globalink Mitacs Alumni. 
 - *2023.06* Outstanding Graduate of Soochow University. 
+- *2022.10* Globalink Research Internship Scholarship, Globalink Mitacs Alumni. 
+
 
