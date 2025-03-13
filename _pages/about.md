@@ -19,7 +19,8 @@ redirect_from:
 # 👋 About Me
 **Hello! I'm Haochuan Li (李浩川).** 👋 I’m an **Algorithm Engineer** at **Alibaba**, working on **large-scale personalized recommendation** for **Taobao**.  
 
-🎓 I hold a **master's degree** from the **School of Computing, National University of Singapore (NUS)**, where I was fortunately mentored by **[Dr. Leigang Qu](https://leigang-qu.github.io/)** and **[Dr. Wenjie Wang](https://wenjiewwj.github.io/)**, under the supervision of **[Prof. Tat-Seng Chua](https://www.chuatatseng.com/)**. During my master's and undergraduate studies, I interned at **ByteDance** 🏢 and **Microsoft** 💻, where I was supervised by **[Dr. Nan Li](http://nan-li.cn/)**. For more details, please see my **[CV](files/cv_20250305.pdf)**.  
+🎓 I hold a **master's degree** from the **School of Computing, National University of Singapore (NUS)**, where I was fortunately mentored by **[Dr. Leigang Qu](https://leigang-qu.github.io/)** and **[Dr. Wenjie Wang](https://wenjiewwj.github.io/)**, under the supervision of **[Prof. Tat-Seng Chua](https://www.chuatatseng.com/)**. During my master's and undergraduate studies, I interned at **ByteDance** 🏢 and **Microsoft** 💻, where I was supervised by **[Dr. Nan Li](http://nan-li.cn/)**. 
+<!-- For more details, please see my **[CV](files/cv_20250305.pdf)**.   -->
 
 🤖 I'm passionate about **Artificial General Intelligence (AGI)** and 🎵 **Music**. My research interests include **Generative Recommendation** and **Large Multi-Modal Models**.  
 
